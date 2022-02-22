@@ -1,6 +1,6 @@
 # Traffic_Sign_Recognition_YOLO_v5
 
-The codes found here are used to recognize traffic signs.
+The codes found here are used to recognize traffic signs with using YOLO(ver.5).
 
 # Dataset of the Project
 
