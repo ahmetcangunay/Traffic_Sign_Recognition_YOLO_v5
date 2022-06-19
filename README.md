@@ -18,3 +18,6 @@ YOLO(ver.5) was used as the model and the results are as follows:
 
 ![YOLO_Results](https://user-images.githubusercontent.com/77415040/155115597-1aae1a46-ce26-416a-ae29-aee681a3be8d.png)
 
+You can see the result with this test video:
+
+🔗 [Test Video](https://drive.google.com/file/d/1D7djsdnS4LF7XYYtCMKx7LT7RgQTRwNQ/view?usp=sharing)
